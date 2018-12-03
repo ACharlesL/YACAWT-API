@@ -6,11 +6,11 @@ In the future the application should provide users the option to communicate wit
 
 ## Links
 
-  - [Client](https://acharlesl.github.io/FoodTrient/)
+  - [API]()
 
-  - [API](https://foodtrient.herokuapp.com/)
+  - [Client]()
 
-  - [API Repo](https://github.com/ACharlesL/FoodTrient-API)
+  - [Client Repo](https://github.com/ACharlesL/YACAWT)
 
 
 ## ERDs
